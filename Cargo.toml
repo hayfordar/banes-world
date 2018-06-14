@@ -5,3 +5,5 @@ authors = ["Andrew Hayford <emailandrewhayford@gmail.com>"]
 
 [dependencies]
 gotham = "*"
+hyper = "*"
+mime = "*"
