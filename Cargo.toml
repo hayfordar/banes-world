@@ -7,3 +7,6 @@ authors = ["Andrew Hayford <emailandrewhayford@gmail.com>"]
 gotham = "*"
 hyper = "*"
 mime = "*"
+serde = "*"
+serde_derive = "*"
+serde_json = "*"
